@@ -1,16 +1,7 @@
-# React + Vite
+# AfterUs
+This project aims to aid students in acadamia, to help them thrive in new environment by learning from those who have already gone through the same path, achieve their goals and focus on whats truly important, while trusting us to make that journey smooth.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Career path explorer
+It is anteractive web based visual feature that uses real world data to help expore various trajectories students can take to achieve their goals.
+The user begins by selecting what they’ve already accomplished — such as their degree, skills, or experience — and then chooses areas of interest. Based on these inputs, the system suggests possible roles or goals (for example, “Data Scientist” or “Masters in Quantum Computing”) and generates an interactive graph showing people who have taken similar paths. Each node in the graph represents a degree, skill, role, or real professional, and the edges show how these elements are connected. The output is a dynamic, interactive graph where users can visually trace different career routes, explore profiles, and understand how others have progressed from similar starting points to their desired goals.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is currently not compatible with SWC. See [this issue](https://github.com/vitejs/vite-plugin-react/issues/428) for tracking the progress.
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
